@@ -117,7 +117,7 @@ MonoBehaviour:
   m_MinSize: {x: 906, y: 421}
   m_MaxSize: {x: 22001, y: 10000}
   vertical: 0
-  controlID: 40799
+  controlID: 367
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 421}
   m_MaxSize: {x: 4001, y: 8021}
   vertical: 1
-  controlID: 40804
+  controlID: 368
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -547,20 +547,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/IMDT/COURSE/Cloth/Characters/Scenes
+    - Assets/IMDT/COURSE/BreakableObjects/_Demo
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/IMDT/COURSE/Cloth/Characters/Scenes
+  - Assets/IMDT/COURSE/BreakableObjects/_Demo
   m_LastFoldersGridSize: 96
   m_LastProjectPath: D:\sigs-imdt\ProfessionalCourse\5EnginePrinciple\Assignments\sgtpepper-EnginePrinciple-course04\EnginePrinciple\IMDT
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e8390000
-    m_LastClickedID: 14824
-    m_ExpandedIDs: 00000000503600005236000056360000583600005a3600005c3600005e36000060360000623600006436000086360000883600008a3600008c3600008e360000923600009436000024380000
+    m_SelectedIDs: 0c390000
+    m_LastClickedID: 14604
+    m_ExpandedIDs: 00000000f8380000fa380000fc380000fe38000000390000023900000439000006390000083900000a3900000c3900000e39000010390000123900001439000016390000183900001a39000024390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -588,7 +588,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000503600005236000056360000583600005a3600005c3600005e36000060360000623600006436000086360000883600008a3600008c3600008e360000923600009436000024380000
+    m_ExpandedIDs: 00000000f8380000fa380000fc380000fe38000000390000023900000439000006390000083900000a3900000c3900000e39000010390000123900001439000016390000183900001a39000024390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -675,7 +675,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: f2c6feff14c7feffc0c8feffecc8feff62ccfeff10cdfeff30cdfeff08cefeffd4cffeff72f4fefffe48ffffca49ffffa298ffff50b4ffff6eb4ffff12b7ffff38b7ffff1cb9ffffe2bbffff18bcffff36bcffff54bcffff44bfffff70c1ffff90c1ffff22c3ffff20d2ffff3ed2ffff5cd2ffff94d2ffff9ed4ffffaed4ffffa6d6ffff28d9ffff28e4ffff48e4ffff5ee4ffff4ae6ffff40e8ffff16ebffff4cebffff78ebffff1ceeffff4ceeffff90f2ffff82f3ffff42f4ffffe8e2030026e3030098e30300
+      m_ExpandedIDs: 8cf2ffffacf2ffff98f3ffffd2f8ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

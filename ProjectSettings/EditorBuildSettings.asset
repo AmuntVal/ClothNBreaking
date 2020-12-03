@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/IMDT/COURSE/Cloth/Characters/Scenes/homework-scene.unity
     guid: ba1573b48738a724ebbe3cc5f6187cef
   - enabled: 1
